@@ -2,7 +2,7 @@
 (English + Español)
 
 Este ejemplo se basa en una actividad típica del curso e ilustra cómo se justifica una estructura de datos según los requerimientos.  
-/  
+
 This example is based on a typical course activity and shows how to justify a data structure according to the requirements.
 
 ---
