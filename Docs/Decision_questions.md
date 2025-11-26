@@ -2,7 +2,7 @@
 (English + Español)
 
 Estas son las 8 preguntas finales utilizadas en el sistema guiado.  
-/  
+
 These are the final 8 questions used in the guided decision system.
 
 ---
