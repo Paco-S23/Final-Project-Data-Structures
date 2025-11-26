@@ -1,7 +1,7 @@
 # Guided Decision System for Data Structures  
 Proyecto Final – Estructuras de Datos  
 Universidad de las Américas Puebla (UDLAP)  
-Autor: Francisco Manuel Suárez 
+Autor: Francisco Manuel Suárez //
        Robbie Nicolas Curioso De Salazar
 
 ---
