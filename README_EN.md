@@ -4,6 +4,7 @@ Universidad de las Américas Puebla (UDLAP)
 Authors:  
 - Francisco Manuel Suárez  
 - Robbie Nicolas Curioso De Salazar
+- Cesáreo Rodríguez Santos
 
 ---
 
