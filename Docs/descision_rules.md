@@ -2,7 +2,7 @@
 (English + Español)
 
 Estas reglas determinan qué estructura de datos se recomienda según las respuestas del usuario.  
-/  
+
 These rules determine the recommended data structure based on the user's answers.
 
 ---
