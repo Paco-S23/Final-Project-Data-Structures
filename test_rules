@@ -1,0 +1,43 @@
+def recommend_structure(q1, q2, q3, q4, q5, q6, q7, q8):
+
+import pytest
+
+# Import your function from UI/app.py
+from UI.app import recommend_structure
+
+
+def test_graph_rule():
+    assert recommend_structure(q7="Yes") == "Graph"
+
+def test_trie_rule():
+    assert recommend_structure(q8="Yes") == "Trie"
+
+def test_heap_rule():
+    assert recommend_structure(q6="Yes") == "Heap (Priority Queue)"
+
+def test_queue_rule():
+    assert recommend_structure(q5="FIFO") == "Queue"
+
+def test_stack_rule():
+    assert recommend_structure(q5="LIFO") == "Stack"
+
+def test_hash_table_rule():
+    assert recommend_structure(q3="Yes") == "Hash Table"
+
+def test_array_rule():
+    assert recommend_structure(q1="Yes", q2="No") == "Array"
+
+def test_linked_list_rule():
+    assert recommend_structure(q2="Yes", q4="No") == "Linked List"
+
+def test_bst_rule():
+    assert recommend_structure(q4="Yes") == "Binary Search Tree (BST)"
+
+def test_default_rule():
+    assert recommend_structure() == "Linked List"
+
+
+def recommend_structure(
+    q1="No", q2="No", q3="No", q4="No",
+    q5="None", q6="No", q7="No", q8="No"
+):
