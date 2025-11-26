@@ -32,6 +32,7 @@ El proyecto cumple con los requerimientos oficiales:
 
 ```bash
 pip install streamlit
-
+```
+```
 streamlit run app.py
-
+```
